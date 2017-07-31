@@ -1,0 +1,21 @@
+Jul 31 2017 08:29:42
+{"type":32,"message":"PHP Startup: Unable to load dynamic library '\/usr\/lib\/php\/20151012\/php_mongodb.dll' - \/usr\/lib\/php\/20151012\/php_mongodb.dll: cannot open shared object file: No such file or directory","file":"Unknown","line":0}
+
+Jul 31 2017 08:30:10
+{"Number":2,"Message":"touch(): Utime failed: Operation not permitted","File":"\/var\/www\/html\/wp-plant-theme\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":446}
+
+Jul 31 2017 08:30:10
+{"Number":2,"Message":"chmod(): Operation not permitted","File":"\/var\/www\/html\/wp-plant-theme\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":449}
+
+Jul 31 2017 08:30:11
+{"Number":2,"Message":"touch(): Utime failed: Operation not permitted","File":"\/var\/www\/html\/wp-plant-theme\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":446}
+
+Jul 31 2017 08:30:11
+{"Number":2,"Message":"chmod(): Operation not permitted","File":"\/var\/www\/html\/wp-plant-theme\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":449}
+
+Jul 31 2017 08:30:13
+{"Number":2,"Message":"touch(): Utime failed: Operation not permitted","File":"\/var\/www\/html\/wp-plant-theme\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":446}
+
+Jul 31 2017 08:30:13
+{"Number":2,"Message":"chmod(): Operation not permitted","File":"\/var\/www\/html\/wp-plant-theme\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":449}
+

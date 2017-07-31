@@ -1,0 +1,23 @@
+.site-header {
+	text-align: center;
+	position: relative;
+	height: 400px;
+	background-color: #d25b4a;
+	margin-bottom: 15px;
+	.site-branding {
+		.site-logo {
+			img {
+				border-radius: 100px;
+			}
+		}
+		.site-title {
+
+		}
+		.site-description {
+
+		}
+	}
+	@media (min-width: 992px) {
+		margin-bottom: 30px;
+	}
+}
